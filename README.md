@@ -1,9 +1,9 @@
-# IPQDA materials - Big-FISH to analyze treatment effect on breast cancer cell line
+# Big-FISH to analyze treatment effect on breast cancer cell line (IPQDA materials)
 
 [![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/fish-quant/big-fish/blob/master/LICENSE)
 [![Python version](https://img.shields.io/pypi/pyversions/big-fish.svg)](https://pypi.python.org/pypi/big-fish/)
 
-This is a forked repository from [Big-FISH](https://github.com/fish-quant/big-fish). The contents are modified to suit the learning objective of the course Image Processing and Quantitative Data Analysis (IPQDA), conducted at the University of Amsterdam and the Vrije University. 
+This is a forked repository from [Big-FISH](https://github.com/fish-quant/big-fish). The contents are modified to suit the learning objectives of the course **Image Processing and Quantitative Data Analysis (IPQDA)**, offered at the University of Amsterdam and the Vrije Univerrsiteit Amsterdam. 
 
 | smFISH image and its coordinates representation |
 | ------------- |
