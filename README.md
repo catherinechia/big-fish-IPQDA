@@ -29,7 +29,7 @@ Activate your environment and install Big-FISH and Jupyter notebook dependencies
 
 ```bash
 conda activate bigfish_env
-cd big-fish-examples
+cd big-fish-IPQDA
 python3 setup.py install
 ```
 
