@@ -39,4 +39,19 @@ Then launch the notebooks:
 jupyter notebook
 ```
 
+### UPDATE
+If you encounter problems launching the notebooks, it is likely due to an update with the Jupyter conda package. Quit the Jupyter server (CTRL+C), run the following code
+
+```bash
+conda activate bigfish_env
+conda install -c anaconda jupyter
+```
+
+and launch the notebooks again:
+
+```bash
+jupyter notebook
+```
+
+
 
